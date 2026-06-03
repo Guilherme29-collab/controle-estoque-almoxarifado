@@ -16,6 +16,6 @@ Este é um projeto desenvolvido em JavaScript (Node.js) focado em resolver um pr
 
 ## 👤 Autor
 
-- Desenvolvido por [Seu Nome Completo]
-- E-mail: [Seu E-mail]
+- Desenvolvido por [Guilherme Lorencetti]
+- E-mail: [guilhermelorencetti4@gmail.com]
 - Experiência: Operação Industrial / Logística / Programação
